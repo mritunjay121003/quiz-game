@@ -83,7 +83,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 **mritunjay**
 
-- GitHub: [@shibbux](https://github.com/mritunjay121003)
+- GitHub: [@mritunjay](https://github.com/mritunjay121003)
 
 ## 📝 License
 
