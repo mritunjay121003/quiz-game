@@ -18,9 +18,6 @@ Quizzleflux is an engaging and dynamic quiz application that challenges users wi
 - 🔍 Detailed review of incorrect answers
 - 🎮 Option to retry the quiz
 
-## 🚀 Live Demo
-
-[Check out the live demo here](https://quizzleflux.netlify.app/)
 
 ## 🛠️ Technologies Used
 
