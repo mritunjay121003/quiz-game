@@ -1,12 +1,12 @@
 # 🎯 Quizzleflux - Interactive Quiz Application
 
 
-![Quizzleflux Screenshot](https://i.imgur.com/qKGfLs6_d.png?maxwidth=520&shape=thumb&fidelity=high)
+
 
 ## 🌟 Overview
 
 Quizzleflux is an engaging and dynamic quiz application that challenges users with a variety of interesting questions across different topics. With its beautiful gradient interface and smooth animations, it provides an enjoyable learning experience!
-![Demo video](https://i.imgur.com/cEhVJnR.gif)
+
 ## ✨ Features
 
 - 🎲 Random question selection from a large pool
@@ -81,9 +81,9 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 👨‍💻 Author
 
-**Shibbux**
+**mritunjay**
 
-- GitHub: [@shibbux](https://github.com/shibbux)
+- GitHub: [@shibbux](https://github.com/mritunjay121003)
 
 ## 📝 License
 
@@ -94,4 +94,4 @@ This project is [MIT](LICENSE) licensed.
 Give a ⭐️ if you like this project!
 
 ---
-Made with 💖 by Shibbux
+Made with 💖 by mritunjay
